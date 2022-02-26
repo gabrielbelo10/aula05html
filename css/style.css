@@ -1,0 +1,26 @@
+.foto__lista01 {
+
+        background-image: url(/img/mala01.jpg);
+        height: 200px;
+        background-size: 20% 80%;
+        background-repeat: no-repeat;
+        background-position-x: 1cm;
+}
+
+.foto__lista02 {
+
+    background-image: url(/img/passaporte.jpg);
+    height: 200px;
+    background-size: 20% 80%;
+    background-repeat: no-repeat;
+    background-position-x: 1cm;
+}
+
+.foto__lista03 {
+
+    background-image: url(/img/checkin.png);
+    height: 200px;
+    background-size: 20% 80%;
+    background-repeat: no-repeat;
+    background-position-x: 1cm;
+}
